@@ -5,6 +5,6 @@ layout: slide
 title: "Welcome to our second slide!"
 ---
 	
-Test Git
+This is my slide
 	
 Use the left arrow to go back!
